@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://github.com/DatOneBrainCell/DatOneBrainCell/blob/main/ninetalesalola.gif)">
 <!--
 **DatOneBrainCell/DatOneBrainCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
