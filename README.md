@@ -1,4 +1,4 @@
-## BrainCell here
+<h1 align = "center"> BrainCell here </h1>
 <h2 align = "left"> Feel free to look around: </h2>
 <br>
 <p align="left">
