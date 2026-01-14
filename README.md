@@ -1,5 +1,6 @@
 ## BrainCell here
-<h3 align = "left"> Feel free to look around: </h3>
+<h2 align = "left"> Feel free to look around: </h2>
+<br>
 <p align="left">
 <a href="https://sketchfab.com/Dat1Braincell" target="blank"><img align="center" src="https://img.shields.io/badge/Sketchfab-%231CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white" alt="Sketchfab" height="90" width="120" /></a>
   <br>
