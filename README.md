@@ -1,5 +1,6 @@
 ## Hi there 👋
-good to see you \n
+good to see you
+\break
 <img align="right" alt="Coding" width="400" src="https://github.com/DatOneBrainCell/DatOneBrainCell/blob/main/ninetalesalola.gif?raw=true">
 <!--
 **DatOneBrainCell/DatOneBrainCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
