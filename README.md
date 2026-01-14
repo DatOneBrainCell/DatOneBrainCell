@@ -1,7 +1,7 @@
 ## Hi there 👋
 good to see you
 \break
-<img align="right" alt="Coding" width="400" src="https://github.com/DatOneBrainCell/DatOneBrainCell/blob/main/AnkirToon.jpg?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/DatOneBrainCell/DatOneBrainCell/blob/main/AnkirToon.png?raw=true">
 <!--
 **DatOneBrainCell/DatOneBrainCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
