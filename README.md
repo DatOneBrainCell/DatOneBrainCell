@@ -6,4 +6,4 @@
   <br>
   <a href="https://dat1braincell.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Sketchfab" height="5%" width="20%" /></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/DatOneBrainCell/DatOneBrainCell/blob/main/AnkirNew.png?raw=true">
+<img align="right" alt="Coding" width="50%" src="https://github.com/DatOneBrainCell/DatOneBrainCell/blob/main/AnkirNew.png?raw=true">
