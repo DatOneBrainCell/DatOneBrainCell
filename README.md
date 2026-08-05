@@ -1,4 +1,4 @@
-<h1 align = "center"><b> Ein Gehirnzelle Studios </b></h1>
+<h1 align = "center"><b> EinZelle Studios </b></h1>
 <h2 align = "left"> Feel free to look around: </h2>
 <br>
 <p align="left">
