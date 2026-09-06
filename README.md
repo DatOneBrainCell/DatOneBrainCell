@@ -1,4 +1,4 @@
-<h1 align = "center"><b> Engel Studios </b></h1>
+<h1 align = "center"><b> Kriettes Studios </b></h1>
 <h2 align = "left"> Feel free to look around: </h2>
 <br>
 <p align="left">
